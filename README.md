@@ -1,8 +1,7 @@
 # LLMs for Social Science
 
 **Workshop for social sciences**  
-April 20–21, 2026 · European University Institute · Florence, Italy
-
+Trinity Term, 2026 · DPIR Oxford
 Teaching materials for the **Large Language Models for Social Science** workshop.
 
 This repository gives you a practical path from how language models work internally to deploying them in real research workflows. Each module pairs concepts with hands-on Python notebooks.
@@ -11,11 +10,11 @@ This repository gives you a practical path from how language models work interna
 
 ## Course overview
 
-The full course is structured as five modules in sequence: foundations of representation and generation; turning raw models into usable tools; deployment and validation for research; social-science applications (including RAG and simulated survey responses); and agent-style workflows. Shorter workshops typically cover a subset of these modules.
+The full course is structured as five modules in sequence: foundations of representation and generation; turning raw models into usable tools; deployment and validation for research; social-science applications; RAG; and agent-style workflows. Shorter workshops typically cover a subset of these modules.
 
-The schedule, core topics, readings, and recommended tools for this symposium session are in the syllabus PDF:
+The schedule, core topics, readings, and recommended tools for this iteration of the course are in the syllabus PDF:
 
-- [`Workshop_Tue_7_Maksim_Zubok.pdf`](Workshop_Tue_7_Maksim_Zubok.pdf)
+- [`intro_llms_syllabus.pdf`](intro_llms_syllabus.pdf)
 
 ## Prerequisites
 
@@ -53,7 +52,7 @@ Open any `.ipynb` file on GitHub and use **“Open in Colab”** from the notebo
 
 ## Archived course materials
 
-Earlier **Spring School / OSS** notebooks and the previous course README (including historical Colab links) are kept under [`archive/oss_2025/README.md`](archive/oss_2025/README.md). Older tutorial notebooks from 2024 are under [`archive/oss_2024/`](archive/oss_2024/).
+Earlier **workshop iteration** notebooks and the previous course README (including historical Colab links) are kept under [`archive/oss_2025/README.md`](archive/oss_2025/README.md). Older tutorial notebooks from 2024 are under [`archive/oss_2024/`](archive/oss_2024/).
 
 ## License
 
